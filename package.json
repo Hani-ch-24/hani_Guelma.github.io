@@ -2,7 +2,7 @@
   "name": "my-react-app",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://YOUR_GITHUB_USERNAME.github.io/REPO_NAME", // ← Must match your repo
+  "homepage": "https://hani_Guelma.github.io/Public", // ← Must match your repo
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
