@@ -1,0 +1,27 @@
+/* Reset default margins/paddings */
+body, html {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arial', sans-serif;
+}
+
+/* Ensure the root div fills the screen */
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+/* Optional: Basic typography */
+h1, h2, h3 {
+  color: #333;
+}
+
+a {
+  color: #61dafb; /* React blue */
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
